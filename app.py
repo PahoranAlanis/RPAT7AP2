@@ -84,9 +84,9 @@ def guardar():
     con.close()
 
     pusher_client = pusher.Pusher(
-        app_id="1714541",
-        key="3ce64b716f42fee14c9b",
-        secret="dfe422af8d19a7130710",
+        app_id="1864239",
+        key="bf61a78167d9920c3d07",
+        secret="1251ee86c94608366b0a",
         cluster="us2",
         ssl=True
     )
